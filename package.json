@@ -1,0 +1,14 @@
+{
+    "name": "@colinfay/here",
+    "version": "0.0.1",
+    "description": "Find your files",
+    "main": "index.js",
+    "author": "Colin Fay <contact@colinfay.me> (https://colinfay.me)",
+    "scripts": {
+        "test": "jest --watch"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}
