@@ -34,6 +34,7 @@ test("changing here works", () => {
     expect(
         here(".", 1)
     ).toBe(".")
+
     expect(
         here("thisfile.js", 1)
     ).toBe("thisfile.js")

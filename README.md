@@ -5,7 +5,7 @@ Port of the [{here}](https://here.r-lib.org/) R package to work with NodeJS.
 ## Install
 
 ```
-npm i @colinfay/here
+npm install https://github.com/ColinFay/here.js
 ```
 
 ## About
